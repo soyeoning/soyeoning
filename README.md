@@ -67,16 +67,6 @@
 
 <br>
 
-## 📊 GitHub 통계
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourGitHubUsername&theme=radical" alt="GitHub Streak" />
-</p>
-
-<br>
-
 ## 📫 연락처
 <p align="center">
   <a href="mailto:lilyjo128@naver.com">
